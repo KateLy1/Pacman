@@ -4,7 +4,7 @@ using namespace std;
 using namespace sf;
 constexpr unsigned char CELL_SIZE = 16;//размер клетки
 constexpr unsigned char GHOST_1_CHASE = 1;//для преследования нужной клетки
-constexpr unsigned char GHOST_2_CHASE = 4;//для преследования нужной клетки
+constexpr unsigned char GHOST_2_CHASE = 2;//для преследования нужной клетки
 constexpr unsigned char GHOST_SPEED = 1;//скорость приведений
 constexpr unsigned char MAP_HEIGHT = 21;//высота поля
 constexpr unsigned char MAP_WIDTH = 21;//ширина поля
